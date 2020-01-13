@@ -300,6 +300,11 @@ function flooftapClicked(event) {
   })
 }
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 4fe7216433d853c7f1a589072c3ea8099d823e72
 function dogsavedropped(event) {
   const image = event.target
   if (image.dataset.ontarget === "true") {
